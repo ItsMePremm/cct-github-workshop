@@ -1,0 +1,16 @@
+git config --global user.name "Your GitHub Username"  //to create user
+git config --global user.email "your.email@example.com"  // To assign email
+
+git init  // Tniiilize Git
+
+git add filename //for a particular file
+git add .  // For a folder or a project
+
+git commit -m "Your Message"
+
+git push  //to push online in the repo
+
+git clone link  //to create a clone of the ripo 
+
+
+
